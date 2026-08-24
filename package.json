@@ -1,0 +1,8 @@
+{
+  "name": "semantic-search-edtech-typescript",
+  "private": true,
+  "type": "module",
+  "scripts": {"start": "tsx src/course-search.ts", "test": "tsx test/course-search.test.ts", "typecheck": "tsc --noEmit"},
+  "dependencies": {"openai": "^4.56.0", "zod": "^3.23.8"},
+  "devDependencies": {"tsx": "^4.19.0", "typescript": "^5.5.4"}
+}
