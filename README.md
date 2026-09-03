@@ -1,6 +1,6 @@
 # Course deadlines in semantic search
 
-When you build search for an education product, the decision that actually matters is handing the learner a lesson plus the deadline they need to act on. This example embeds course text through Infrai's OpenAI-compatible `baseURL` and stores the vectors in the same Infrai service, so one key covers the complete path from lesson indexing to a learner query.
+The useful decision in an education search service is to return lessons together with the deadline that a learner must act on. This example embeds course text through Infrai's OpenAI-compatible `baseURL` and stores the vectors in the same Infrai service, so one key covers the complete path from lesson indexing to a learner query.
 
 ## Runnable path
 
